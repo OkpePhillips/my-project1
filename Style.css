@@ -45,12 +45,10 @@ body {
   font-weight: bold;
   padding: 5% 0%;
   color: hsl(223, 47%, 23%);
-  /*color: rgb(60,60,60);*/
 }
 .container_info2 p {
   font-size: 1em;
   color: hsl(224, 23%, 55%);
-  /*rgb(180,180,180);*/
 }
 .section {
   background-color: hsl(225, 100%, 98%);
@@ -100,13 +98,11 @@ button {
 }
 .container_info4 p {
   color: hsl(224, 23%, 55%);
-  /*rgb(150,150,150);*/
   font-weight: bold;
   cursor: pointer;
 }
 .container_info4 a {
   color: hsl(224, 23%, 55%);
-  /*rgb(150,150,150);*/
   font-weight: bold;
   cursor: pointer;
 }
